@@ -1,4 +1,4 @@
-/* let nome = prompt("Qual é o seu nome?");
+let nome = prompt("Qual é o seu nome?");
 let idade = prompt("Qual é sua idade?");
 let linguagem = prompt("Qual linguagem de programação você estuda?");
 
@@ -10,4 +10,4 @@ if (pergunta == "1") {
   alert(`Muito bom! Continue estudando e você terá muito sucesso!`);
 } else {
   alert(`Ah que pena ${nome}... Você já tentou aprender outras linguagens?`);
-} */
+}
