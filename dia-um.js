@@ -1,4 +1,4 @@
-/* let numeroUm = 1;
+let numeroUm = 1;
 let stringUm = "1";
 let numeroTrinta = 30;
 let stringTrinta = "30";
@@ -21,4 +21,4 @@ if (numeroDez == stringDez) {
   console.log("As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes");
 } else {
   console.log("As variáveis numeroDez e stringDez não têm o mesmo valor!");
-} */
+}
