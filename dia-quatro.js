@@ -1,4 +1,4 @@
-let numeroSecreto = parseInt(Math.random() * 10 + 1);
+/* let numeroSecreto = parseInt(Math.random() * 10 + 1);
 console.log(numeroSecreto);
 
 let escolherNumero = "";
@@ -21,3 +21,4 @@ while (contador <= 3) {
   }
   contador++
 }
+ */

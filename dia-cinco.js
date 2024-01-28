@@ -1,4 +1,4 @@
-let frutas = [];
+/* let frutas = [];
 let laticinios = [];
 let doces = [];
 let congelados = [];
@@ -37,4 +37,4 @@ if (adicionarLista.toLowerCase() == 'não' || adicionarLista.toLowerCase() == 'n
 } else {
     alert('Opção inválida. Sua lista será exibida até agora.');
     alert(`Sua lista de compras parcial: \nFrutas: ${frutas}. \nLaticínios: ${laticinios}. \nDoces: ${doces}. \nCongelados: ${congelados}. \nLimpeza: ${limpeza}. \nDiversos: ${diversos}. \nObrigado, volte sempre!`);
-}
+} */

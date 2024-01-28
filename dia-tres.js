@@ -1,4 +1,4 @@
-const nome = prompt('Olá! Seja bem-vindo! Escreva seu nome: ');
+/* const nome = prompt('Olá! Seja bem-vindo! Escreva seu nome: ');
 
 let frontEnd = 1;
 let backEnd = 2;
@@ -49,3 +49,4 @@ while(especializacaoTecnologias !== condicao) {
 
 alert(`Obrigado por participar ${nome}! Volte sempre que puder!`)
 
+ */
